@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">EmergencyApplication</string>
+    <string name="emergency">EMERGENCY</string>
+    <string name="lat">Lat</string>
+    <string name="lng">Lng</string>
+    <string name="share">SHARE</string>
+    <string name="help">HELP</string>
+    <string name="mark">MARK</string>
+    <string name="qr_share">QR SHARE</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
